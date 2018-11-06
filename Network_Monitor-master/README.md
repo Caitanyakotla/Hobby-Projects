@@ -6,7 +6,7 @@ This program is designed in Python environment.For the capturing stream it is in
 
 Installation:
 
-1.First you need to clone DPMI utils from "https://github.com/suhaila94/libcap_utils"
+1.First you need to clone DPMI utils from "https://github.com/caitanyakotla/libcap_utils"
 2.See Installing for details.
 
 	autoreconf -si
